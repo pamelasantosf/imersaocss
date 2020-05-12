@@ -1,0 +1,32 @@
+body {
+    font-family: system-ui;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRgOi06Rm_66MC6YfDBBJ4M-Qfb5n_YazuciPNDtCjGuUSkmIk&usqp=CAU);
+    background-size: 200px 300px;
+  }
+    .menu {background-color: white; 
+     text-align: left;
+    }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: teal;
+    text-decoration:none;
+  }
+  
+  a hover{
+     text-decoration: underline;
+    } 
+  .site-subtitle,
+  .site-title{
+    color: grey;
+      text-align: center;}
+  
+  .site-subtitle{
+    font-style: italic;
+  }
