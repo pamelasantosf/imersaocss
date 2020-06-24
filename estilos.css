@@ -86,7 +86,7 @@ header{
   .site-subtitle {
     transform: scale(0.5) translateY(50vh);
     opacity: 0;
-    animation: linear 0.4s animacaoTitulo forwards;
+    animation: linear 0.6s animacaoTitulo forwards;
   }
 
 @keyframes animacaoTitulo {
